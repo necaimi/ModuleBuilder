@@ -1,0 +1,11 @@
+{
+    "name": "modulebuilder",
+    "title": "module builder",
+    "description": "Module Builder with Brackets",
+    "version": "1.0.0",
+    "author": "NA",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.40.0"
+    }
+}

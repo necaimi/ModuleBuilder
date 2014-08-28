@@ -1,0 +1,11 @@
+{
+    "OpenDialog":[
+        {
+        "key":"Ctrl-M"
+        },
+        {
+        "key": "Cmd-Opt-M",
+        "platform": "mac"
+        }
+    ]
+}
